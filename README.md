@@ -1,3 +1,3 @@
-- 👋 Olá meu nome é Fabricio, sou um entusiasta em desenvolvimento Front-End com interesse UX/UI. Atuando como Freelancer.
-Muito ligado em tecnologia, buscando trazer mais esse trabalho pro dia a dia.
+- 👋 Olá meu nome é Fabricio, Entusiasta em Desenvolvimento de Software e DevOps.
 - 📫 contato: fabricio7gf@gmail.com
+- 💻 linkedIn: https://www.linkedin.com/in/fabricio-frança-97a8891a4/
